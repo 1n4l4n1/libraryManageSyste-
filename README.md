@@ -1,2 +1,2 @@
-# libraryManageSyste-
-Basic library management system code in python
+# libraryManageSystem
+library management system code in python
